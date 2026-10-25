@@ -1,0 +1,10 @@
+# Données personnelles : ne jamais publier la base d'abonnés ni le journal d'envoi
+abonnes.db
+abonnes.db-journal
+envoi.log
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+~$*
+.~lock.*
